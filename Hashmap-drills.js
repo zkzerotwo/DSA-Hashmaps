@@ -1,4 +1,4 @@
-const { HashMap } = require("./Hashmap-class");
+const { HashMap } = require("./Hashmap-class.js");
 
 const main = () => {
   let lotr = new HashMap();
